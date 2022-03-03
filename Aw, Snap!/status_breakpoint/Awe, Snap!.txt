@@ -1,0 +1,53 @@
+Issue:
+    I am getting the error code: STATUS_BREAKPOINT.
+    When:
+        The code generates when I try click on a movie to watch it.
+    Recent changes to server:
+        none
+    changes to home:
+        none
+    changes in home netowrk:
+        none
+
+
+Theory(ies)/solution ideas:
+    1.Config file issues?
+    2.connectivity issues? - no resolve
+    3. browser cache? - no resolve
+    4. compatability?
+        server - client
+        client hardware
+    5. browser compatability?  - try chrome?
+    6. Restart Browser - no resolve
+    7. Restart computer -no resolve
+    8. Brave shield - no resolve
+
+
+Testing:
+    connectivity:
+        ping 8.8.8.8 - connected
+    browser cache:
+        cleared brave Browser cache - no resolve
+        open private Brave browser - no resolve
+    Restart browser:
+        awe snap issues continue - no resolve
+    Restart computer:
+        awe snap issues continued - no resolve
+    Brave shield:
+        launching app.plex.tv/desktop/#!/ - no resolve
+    Browser compatability:
+        chrome:
+            test three movies - all successfully loaded
+            possible resolve
+        Brave:
+            app.plex.tv/desktop/#!/ - failed to loaded
+                when I refresh the site, I can see the web page breifly.
+                Then the "Awe, Snap!" error shows up.             
+
+Action plan to resolve:
+    Use Chrome 
+
+Verify:
+
+Findings / Actions / Outcomes:
+   
