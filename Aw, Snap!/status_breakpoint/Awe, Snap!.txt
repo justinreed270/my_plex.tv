@@ -12,15 +12,15 @@ Issue:
 
 Theory(ies)/solution ideas:
     1.Config file issues?
-    2.connectivity issues? - no resolve
-    3. browser cache? - no resolve
+    2.connectivity issues?
+    3. browser cache?
     4. compatability?
         server - client
         client hardware
-    5. browser compatability?  - try chrome?
-    6. Restart Browser - no resolve
-    7. Restart computer -no resolve
-    8. Brave shield - no resolve
+    5. browser compatability?
+    6. Restart Browser
+    7. Restart computer
+    8. Brave shield 
 
 
 Testing:
@@ -44,10 +44,20 @@ Testing:
                 when I refresh the site, I can see the web page breifly.
                 Then the "Awe, Snap!" error shows up.             
 
+
 Action plan to resolve:
     Use Chrome 
 
+
 Verify:
 
-Findings / Actions / Outcomes:
-   
+
+(Findings / Actions / Outcomes)
+Finding:
+    2.connectivity issues? - no resolve
+    3. browser cache? - no resolve
+    6. Restart Browser - no resolve
+    7. Restart computer -no resolve
+    8. Brave shield - no resolve
+    5. browser compatability?:
+        Chrome seems to work successfully
